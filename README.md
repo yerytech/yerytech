@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://puapaedudo-my.sharepoint.com/:i:/g/personal/202000854_p_uapa_edu_do/Ef_F0YykakdApRXD9rRYJm8BSFhgn9Pb_dstGtZADGGBzg?e=7iW61o" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="blob:https://puapaedudo-my.sharepoint.com/d3585e7c-95ea-49b5-863c-e597eef133de" height="175px"/></a>
 
 <h3 align="center">Hey  I'm <a href="https://www.tiktok.com/@yerytech/">Yery</a> - aka Yery Tech<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
