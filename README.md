@@ -80,7 +80,7 @@
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UC34noB7fdl2Ajd6udGOYZ-g)
 
 ## 📈 Github Stats
 
