@@ -14,7 +14,7 @@
 * 🎓 I'm Software Engineering Student
 * 💻 I'm a flutter developer
 * 📱 I make apps for Android and iOS
-* 📺 I make mobile and technological development tutorials on [TikTok](https://www.youtube.com/c/DevProTips)
+* 📺 I make mobile and technological development tutorials on [TikTok](https://www.tiktok.com/@yerytech)
 
 <p align="left">
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
