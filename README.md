@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="blob:https://puapaedudo-my.sharepoint.com/859f5031-b9c6-4f52-aae6-6b7ce425423a" height="175px"/></a>
 
 <h3 align="center">Hey  I'm <a href="https://www.tiktok.com/@yerytech/">Yery</a> - aka Yery Tech<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UC34noB7fdl2Ajd6udGOYZ-g)
 
 
 ## 📖 About me
@@ -80,7 +80,7 @@
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UC34noB7fdl2Ajd6udGOYZ-g)
+
 
 ## 📈 Github Stats
 
