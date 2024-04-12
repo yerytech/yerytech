@@ -1,6 +1,7 @@
 # Hello! 👋 I'm Yery, but you can call me YeryTech
 
-![Banner](https://img.freepik.com/vector-gratis/ilustracion-concepto-abstracto-desarrollo-micrositio_335657-3690.jpg?w=740&t=st=1712881382~exp=1712881982~hmac=9b328c3c8d924157654dbefd5bbe553d0b8bbb5a150b500585a2bc02a740f783)
+![YeryTech Banner](https://i.imgur.com/1J7C6to.png)
+
 
 Welcome to my GitHub repository! I'm a software engineering student at UAPA and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
 
