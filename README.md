@@ -2,13 +2,11 @@
 
 ![YeryTech Banner](https://i.giphy.com/m2sH77XZIJa2C25xy1.webp)
 
+Welcome to my GitHub repository! I'm a software engineering student at UAPA and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
+
+## Fllow me 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@yerytech)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yerytech/)
-
-
-
-
-Welcome to my GitHub repository! I'm a software engineering student at UAPA and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
 
 ## About me
 
