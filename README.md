@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Yery, but you can call me YeryTech
 
-![YeryTech Banner](https://files.fm/f/x9c9qsvfxb)
+![YeryTech Banner](https://i.giphy.com/znFOMXuHVkV36qzdbJ.webp)
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@yerytech)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yerytech/)
