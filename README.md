@@ -16,6 +16,27 @@ Welcome to my GitHub repository! I'm a software engineering student at UAPA and 
 - 💻 Passionate about software development and technology
 - 🎥 Creating programming tutorial content on  TikTok [@yerytech](https://www.tiktok.com/@yerytech)
 
+## Language
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
+## Technology and Tools
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=for-the-badge&logo=Firebase)
+![Supabase](https://img.shields.io/badge/Supabase-%2336377C.svg?&style=for-the-badge&logo=Supabase&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio Community](https://img.shields.io/badge/VS%20Community-%235C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
+
+
+
 ## Follow me 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@yerytech)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yerytech/)
