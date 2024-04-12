@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Yery, but you can call me YeryTech
 
-![Banner](https://puapaedudo-my.sharepoint.com/:i:/g/personal/202000854_p_uapa_edu_do/Ef_F0YykakdApRXD9rRYJm8BSFhgn9Pb_dstGtZADGGBzg?e=ZxKeIi)
+![Banner](https://puapaedudo-my.sharepoint.com/:i:/g/personal/202000854_p_uapa_edu_do/EQ6bLDVb42tBnV1JJnc8OnIBVlYgSXognixeJeSU952buA?e=pnnTuA)
 
 Welcome to my GitHub repository! I'm a software engineering student at UAPA and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
 
