@@ -19,6 +19,8 @@ Welcome to my GitHub repository! I'm a software engineering student at UAPA and 
 ## Language
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-blue.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
+
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
