@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Yery, but you can call me YeryTech
 
-![Banner](https://i.pinimg.com/736x/e1/03/3b/e1033b63cc240c9cf458f64b6c90ee69.jpg)
+![Banner](https://i.pinimg.com/originals/de/4f/68/de4f68ae5df2d391ff4fb58134ce6612.png)
 
 Welcome to my GitHub repository! I'm a software engineering student at UAPA and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
 
