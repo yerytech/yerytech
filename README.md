@@ -10,7 +10,7 @@ Welcome to my GitHub repository! I'm a software engineering student at UAPA and 
 - 🚀 Mobile App Developer
 - 📱 Creator of [NoteDom](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US), a domino notes app available on the Play Store
 - 💻 Passionate about software development and technology
-- 🎥 Creating programming tutorial content on ![TikTok](https://img.icons8.com/color/48/000000/tiktok.png) [@yerytech](https://www.tiktok.com/@yerytech)
+- 🎥 Creating programming tutorial content on ![TikTok]. [@yerytech](https://www.tiktok.com/@yerytech)
 
 ## Featured Project
 
