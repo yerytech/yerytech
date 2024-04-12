@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Yery, but you can call me YeryTech
 
-![Banner](https://drive.google.com/file/d/1-826_vS1W6YFEOEWEJ64JUvr4qwCgT9c/view?usp=drive_link)
+![Banner](https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg)
 
 Welcome to my GitHub repository! I'm a software engineering student at UAPA and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
 
