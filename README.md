@@ -16,7 +16,7 @@ Welcome to my GitHub repository! I'm a software engineering student at UAPA and 
 - 💻 Passionate about software development and technology
 - 🎥 Creating programming tutorial content on  TikTok [@yerytech](https://www.tiktok.com/@yerytech)
 
-## Fllow me 
+## Follow me 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@yerytech)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yerytech/)
 
