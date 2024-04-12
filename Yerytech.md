@@ -17,7 +17,6 @@ Welcome to my GitHub repository! I'm a software engineering student at UAPA and 
 - 🎥 Creating programming tutorial content on  TikTok [@yerytech](https://www.tiktok.com/@yerytech)
 
 ## Language
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-blue.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
@@ -26,6 +25,7 @@ Welcome to my GitHub repository! I'm a software engineering student at UAPA and 
 ![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Technology and Tools
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=for-the-badge&logo=Firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-%2336377C.svg?&style=for-the-badge&logo=Supabase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
