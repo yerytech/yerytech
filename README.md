@@ -1,6 +1,9 @@
 # Hello! 👋 I'm Yery, but you can call me YeryTech
 
-![YeryTech Banner](https://i.giphy.com/m2sH77XZIJa2C25xy1.webp)
+<p align="center">
+  <img src="https://i.giphy.com/m2sH77XZIJa2C25xy1.webp" alt="YeryTech Banner">
+</p>
+
 
 Welcome to my GitHub repository! I'm a software engineering student at UAPA and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
 
