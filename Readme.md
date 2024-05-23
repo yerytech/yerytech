@@ -18,7 +18,7 @@ Welcome to my GitHub repository! I'm a software engineering student at UAPA and 
 
 ## Language
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
-[![Kotlin](https://img.shields.io/badge/Kotlin-null-%23F15506?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23F15506?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-blue.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -27,7 +27,7 @@ Welcome to my GitHub repository! I'm a software engineering student at UAPA and 
 
 ## Technology and Tools
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-null-%230079D3?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/studio)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%230079D3?style=for-the-badge&logo=Android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=for-the-badge&logo=Firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-%2336377C.svg?&style=for-the-badge&logo=Supabase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
