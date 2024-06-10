@@ -5,12 +5,12 @@
 </p>
 
 
-Welcome to my GitHub repository! I'm a software engineering student at UAPA and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
+Welcome to my GitHub repository! I'm a software engineering student and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
 
 
 ## About me
 
-- 📚 Software Engineering Student at UAPA
+- 📚 Software Engineering Student 
 - 🚀 Mobile App Developer
 - 📱 Creator of [NoteDom](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US), a domino notes app available on the Play Store
 - 💻 Passionate about software development and technology
