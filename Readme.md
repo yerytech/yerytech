@@ -16,7 +16,8 @@ Welcome to my GitHub repository! I'm a software engineering student and a passio
 ![Kotlin](https://img.shields.io/badge/-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![VSCode](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 
 
