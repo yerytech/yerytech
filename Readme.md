@@ -12,11 +12,11 @@ Welcome to my GitHub repository! I'm a software engineering student and a passio
 - 🎥 Creating programming tutorial content on  TikTok [@yerytech](https://www.tiktok.com/@yerytech)
 
 ## Language and tools
-![Android](https://img.shields.io/badge/-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![VSCode](https://img.shields.io/badge/-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
