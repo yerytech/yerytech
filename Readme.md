@@ -11,23 +11,12 @@ Welcome to my GitHub repository! I'm a software engineering student and a passio
 - 💻 Passionate about software development and technology
 - 🎥 Creating programming tutorial content on  TikTok [@yerytech](https://www.tiktok.com/@yerytech)
 
-## Language
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%23F15506?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-blue.svg?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
-## Technology and Tools
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%230079D3?style=for-the-badge&logo=Android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=for-the-badge&logo=Firebase)
-![Supabase](https://img.shields.io/badge/Supabase-%2336377C.svg?&style=for-the-badge&logo=Supabase&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Visual Studio Community](https://img.shields.io/badge/VS%20Community-%235C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
+## Language and tools
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
