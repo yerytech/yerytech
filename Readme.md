@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I'm a software engineering student and a passio
 
 - 📚 Software Engineering Student 
 - 🚀 Mobile App Developer
-- 📱 Creator of [NoteDom](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US), a domino notes app available on the Play Store
+- 📱 Creator of [Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US), a domino notes app available on the Play Store
 - 💻 Passionate about software development and technology
 - 🎥 Creating programming tutorial content on  TikTok [@yerytech](https://www.tiktok.com/@yerytech)
 
@@ -16,6 +16,8 @@ Welcome to my GitHub repository! I'm a software engineering student and a passio
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
