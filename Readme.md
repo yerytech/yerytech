@@ -32,9 +32,9 @@ Welcome to my GitHub repository! I'm a software engineering student and a passio
 
 ## Featured Project
 
-### NoteDom
+### Apuntes Domino
 
-[NoteDom](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US) is a mobile app that allows you to take notes of your domino games in a unique and peculiar way. With special features designed specifically for domino lovers, NoteDom is an indispensable tool for keeping track of your games and improving your strategy.
+[Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US) is a mobile app that allows you to take notes of your domino games in a unique and peculiar way. With special features designed specifically for domino lovers, Apuntes Domino is an indispensable tool for keeping track of your games and improving your strategy.
 
 ## Contact
 
