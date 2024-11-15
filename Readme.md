@@ -1,6 +1,12 @@
 # Hello! 👋 I'm Yery, but you can call me YeryTech
 
-Welcome to my GitHub repository! I'm a software engineering student and a passionate mobile app developer. Currently, I'm immersed in the exciting world of software development, exploring new technologies and creating innovative solutions that make a difference.
+Welcome to my GitHub repository! 
+I am a software developer with experience in React, React Native, Flutter, and Kotlin. I enjoy creating useful and well-designed applications, both mobile and web, with the goal of learning and contributing.
+
+I have worked on projects like Apuntes Domino, an app that simplifies scorekeeping for domino games, and I am the founder of SofPintao, an initiative focused on developing software that helps protect the environment.
+
+I’m always looking for new challenges and opportunities to grow professionally and contribute with innovative solutions. Let’s connect!
+
 
 
 ## About me
