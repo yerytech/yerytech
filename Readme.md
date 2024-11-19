@@ -13,6 +13,7 @@ I’m always looking for new challenges and opportunities to grow professionally
 
 - 📚 Software Engineering Student 
 - 🚀 Mobile App Developer
+- 👨‍💻 I’m currently learning Everything 🤣
 - 📱 Creator of [Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US), a domino notes app available on the Play Store
 - 💻 Passionate about software development and technology
 - 🎥 Creating programming tutorial content on  TikTok [@yerytech](https://www.tiktok.com/@yerytech)
