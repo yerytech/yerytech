@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Yery (aka YeryTech)
 
 Welcome to my GitHub repository! 🚀  
-I’m a **software developer** passionate about crafting impactful, well-designed applications for both web and mobile platforms. With experience in **React**, **React Native**, **Flutter**, and **Kotlin**, I enjoy learning and contributing through innovative projects.
+I’m a **software developer** passionate about crafting impactful, well-designed applications for both web and mobile platforms.I enjoy  contributing and learning through innovative projects.
 
 Some of my notable projects include **[Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US)**, an app that simplifies scorekeeping for domino games, and **SofPintao**, a forward-thinking initiative dedicated to creating environmentally conscious software solutions.  
 
