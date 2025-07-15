@@ -1,28 +1,33 @@
 # Hello! 👋 I'm Yery (aka YeryTech)
 
 Welcome to my GitHub repository! 🚀  
-I’m a **software developer** passionate about crafting impactful, well-designed applications for both web and mobile platforms.I enjoy  contributing and learning through innovative projects.
+I am a **software developer** dedicated to building impactful and well-crafted applications for web and mobile platforms. I thrive on contributing to innovative projects and continuously expanding my skills.
 
-Some of my notable projects include **[Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US)**, an app that simplifies scorekeeping for domino games, and **SofPintao**, a forward-thinking initiative dedicated to creating environmentally conscious software solutions.  
+### Notable Projects
+- **[Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US)**  
+  A mobile app designed to simplify scorekeeping for domino games with an intuitive interface and useful features.
+- **SofPintao**  
+  An initiative focused on developing environmentally conscious software solutions.
 
-I’m always eager to tackle new challenges, grow professionally, and collaborate on innovative ideas. Let’s connect and build something awesome together!  
+I’m passionate about taking on new challenges, growing professionally, and collaborating on exciting projects. Let’s connect and create something remarkable together!
 
 ---
 
 ## 🙋‍♂️ About Me
 
 - 📚 **Software Engineering Student**  
-- 🚀 **Mobile App Developer**  
-- 🤓 Constant learner (and loving every moment of it!)  
-- 📱 Creator of [Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US), a domino scorekeeping app on the Play Store  
-- 💻 Passionate about **software development** and **technology**  
-- 🎥 Creator of programming tutorials on TikTok: [@yerytech](https://www.tiktok.com/@yerytech)  
+- 🚀 **Mobile & Web App Developer**  
+- 🤓 Lifelong learner, always exploring new technologies  
+- 📱 Creator of [Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US), available on the Play Store  
+- 💻 Enthusiast of software development and technology innovation  
+- 🎥 Programming tutorial creator on TikTok: [@yerytech](https://www.tiktok.com/@yerytech)
 
 ---
 
-## 🌐 Languages and Tools
+## 🌐 Technologies & Tools
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
@@ -38,31 +43,31 @@ I’m always eager to tackle new challenges, grow professionally, and collaborat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
 </p>
 
+---
+
+## 📌 Featured Project: Apuntes Domino  
+
+[Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US) is a mobile application designed specifically for domino players. It offers a seamless scorekeeping experience with an intuitive interface and features that enhance gameplay strategy.  
 
 ---
 
-## 📌 Featured Project: **Apuntes Domino**  
-
-[Apuntes Domino](https://play.google.com/store/apps/details?id=com.yerytech.notedom&hl=en&gl=US) is a mobile app tailored for domino enthusiasts. It provides a seamless way to keep track of scores while enjoying your favorite game. With an intuitive interface and special features, it's a must-have for domino players aiming to level up their strategy.  
-
----
-
-## 🌟 Let's Connect!  
+## 🌟 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.tiktok.com/@yerytech">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+  <a href="https://www.tiktok.com/@yerytech" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://www.instagram.com/yerytech/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/yerytech/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>  
+</p>
 
 ---
 
-## 📬 Contact  
+## 📬 Contact
 
-I’d love to hear from you! Whether you have feedback, ideas, or just want to collaborate, feel free to reach out:  
-- 📧 Email: [yerytecnology@gmail.com](mailto:yerytecnology@gmail.com)  
+I’m always open to feedback, questions, or collaboration opportunities. Feel free to reach out!  
+- 📧 Email: [yerytecnology@gmail.com](mailto:yerytecnology@gmail.com)
 
-Thank you for stopping by! Feel free to explore my projects, and don’t hesitate to get in touch if you have any questions or ideas.  
+Thank you for visiting my profile — I invite you to explore my projects and get in touch!
+
